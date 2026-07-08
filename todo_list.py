@@ -1,6 +1,7 @@
-# ============================================
+ HEAD
+
 # DecodeLabs - Project 1: To-Do List
-# ============================================
+
 
 my_tasks = []  # The in-memory database (volatile container)
 task_id_counter = 1  # Auto-incrementing primary key (like SQL)
